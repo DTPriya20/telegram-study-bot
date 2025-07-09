@@ -1,6 +1,6 @@
 # 📚 Telegram Study Assistant Bot 🤖
 
-A powerful Telegram bot that transforms uploaded study materials (`PDF`, `DOCX`, `MD`) into intelligent **summaries**, **flashcards**, and **answers** using a combination of **FAISS vector search** and **local LLMs via Ollama**.
+A powerful Telegram bot that transforms uploaded study materials (`PDF`, `DOCX`, `MD`) into intelligent **summaries**, **flashcards** and **answers** using a combination of **FAISS vector search** and **local LLMs via Ollama**.
 
 Ideal for students, educators, and exam-prep warriors who want instant content understanding and revision material generation — all within Telegram.
 
@@ -39,6 +39,7 @@ Ideal for students, educators, and exam-prep warriors who want instant content u
 
 ## 📦 How to Use This Bot in Your Project
 
+This project is open-sourced under the MIT License.
 To clone and use this project in your own environment (ethically, with credits if used in production):
 
 ### 1. Clone the Repository
@@ -46,3 +47,7 @@ To clone and use this project in your own environment (ethically, with credits i
 ```bash
 git clone https://github.com/DTPriya20/telegram-study-bot.git
 cd telegram-study-bot
+
+
+
+
