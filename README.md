@@ -19,7 +19,6 @@ Ideal for students, educators, and exam-prep warriors who want instant content u
 | **scikit-learn (`cosine_similarity`)** | Similarity-based ranking |
 | **FPDF**                           | Flashcard PDF export |
 | **pickle**                         | Vector store persistence |
-| **Railway**                        | Cloud deployment (excluding LLM) |
 
 ---
 
