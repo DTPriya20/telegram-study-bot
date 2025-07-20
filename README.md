@@ -32,20 +32,16 @@ Ideal for students, educators, and exam-prep warriors who want instant content u
 - 📥 Export flashcards as downloadable PDF
 - 🔄 Reset content or download your flashcards anytime
 - 🧠 If no document is uploaded, fallback to full LLM QA
-- 🛠️ Deployable locally or on **Railway** (excluding Ollama features)
+
 
 ---
 
-## 📦 How to Use This Bot in Your Project
+## 📦 Use This Bot in Your Project
 
 This project is open-sourced under the MIT License.
 To clone and use this project in your own environment (ethically, with credits if used in production):
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/DTPriya20/telegram-study-bot.git
-cd telegram-study-bot
 
 
 
