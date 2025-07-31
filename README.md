@@ -39,7 +39,7 @@ Ideal for students, educators, and exam-prep warriors who want instant content u
 ## 📦 Use This Bot in Your Project
 
 This project is open-sourced under the MIT License.
-To clone and use this project in your own environment (ethically, with credits if used in production):
+
 
 
 
